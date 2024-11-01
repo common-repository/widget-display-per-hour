@@ -1,0 +1,10 @@
+.widget-form-tutocms_img{position: relative;}
+.widget-form-tutocms_img p{margin: 0; padding: 7px 0 10px;}
+.widget-form-tutocms_img p label{width: 100%;clear: both;font-size: 14px;font-weight: bold;}
+.widget-form-tutocms_img p label input{}
+.widget-form-tutocms_img .item.date{border: 1px solid #d3d3d3; border-radius: 8px; margin-bottom: 10px; padding: 12px;}
+.widget-form-tutocms_img .item.date b{font-size: 16px; font-weight: bold; text-transform: uppercase;width: 100%;}
+.widget-form-tutocms_img .item.date p {margin: 0;padding: 0;}
+.widget-form-tutocms_img .item.date p label{display: inline-block; padding-right: 9px; text-align: right; width: 80px;}
+.widget-form-tutocms_img .item.date p input{display: inline-block;width: 80px;}
+
